@@ -1,0 +1,5 @@
+pynput==1.4.5
+pyobjc-core==6.1
+pyobjc-framework-Cocoa==6.1
+pyobjc-framework-Quartz==6.1
+six==1.13.0
